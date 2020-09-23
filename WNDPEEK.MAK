@@ -1,0 +1,13 @@
+WNDPEEK.FRM
+WNDPEEK.GBL
+TASK.BAS
+OPT.FRM
+SCROLWND.FRM
+TEST.FRM
+TASK2.FRM
+BACK2.FRM
+ProjWinSize=66,392,240,247
+ProjWinShow=2
+IconForm="Form1"
+Title="Window Peek Version 2.0"
+ExeName="WNDPEEK.EXE"
