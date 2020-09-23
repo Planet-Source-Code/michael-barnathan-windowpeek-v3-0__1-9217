@@ -1,0 +1,11 @@
+Type Rect
+    Left As Integer
+    Top As Integer
+    Right As Integer
+    Bottom As Integer
+End Type
+Global ScrollHandle As Long
+Global ModMode As Integer
+Global Const MF_ENABLED = &H0
+Global Const MF_DISABLED = &H2
+
